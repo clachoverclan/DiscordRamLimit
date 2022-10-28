@@ -1,7 +1,7 @@
 # DiscordRamLimit
 
 ## Setup
-- Download [DiscordRamLimit.exe](https://github.com/)
+- Download [DiscordRamLimit.exe](https://github.com/clachoverclan/DiscordRamLimit/tree/main/DiscordRamLimit/bin/Debug/DiscordRamLimit.exe)
 - Do `Win + R` and write `shell:startup` then press `Enter`
 - Paste `DiscordRamLimit.exe` into folder.
 </br>
