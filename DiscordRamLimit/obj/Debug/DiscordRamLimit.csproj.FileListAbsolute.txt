@@ -1,0 +1,11 @@
+C:\Users\clach\Documents\Visual Studio Code\C++\DiscordRamLimit\DiscordRamLimit\bin\Debug\DiscordRamLimit.exe.config
+C:\Users\clach\Documents\Visual Studio Code\C++\DiscordRamLimit\DiscordRamLimit\bin\Debug\DiscordRamLimit.exe
+C:\Users\clach\Documents\Visual Studio Code\C++\DiscordRamLimit\DiscordRamLimit\bin\Debug\DiscordRamLimit.pdb
+C:\Users\clach\Documents\Visual Studio Code\C++\DiscordRamLimit\DiscordRamLimit\bin\Debug\System.CodeDom.dll
+C:\Users\clach\Documents\Visual Studio Code\C++\DiscordRamLimit\DiscordRamLimit\bin\Debug\System.CodeDom.xml
+C:\Users\clach\Documents\Visual Studio Code\C++\DiscordRamLimit\DiscordRamLimit\obj\Debug\DiscordRamLimit.csproj.AssemblyReference.cache
+C:\Users\clach\Documents\Visual Studio Code\C++\DiscordRamLimit\DiscordRamLimit\obj\Debug\DiscordRamLimit.csproj.SuggestedBindingRedirects.cache
+C:\Users\clach\Documents\Visual Studio Code\C++\DiscordRamLimit\DiscordRamLimit\obj\Debug\DiscordRamLimit.csproj.CoreCompileInputs.cache
+C:\Users\clach\Documents\Visual Studio Code\C++\DiscordRamLimit\DiscordRamLimit\obj\Debug\DiscordRamLimit.csproj.CopyComplete
+C:\Users\clach\Documents\Visual Studio Code\C++\DiscordRamLimit\DiscordRamLimit\obj\Debug\DiscordRamLimit.exe
+C:\Users\clach\Documents\Visual Studio Code\C++\DiscordRamLimit\DiscordRamLimit\obj\Debug\DiscordRamLimit.pdb
