@@ -57,7 +57,7 @@ namespace DiscordRamLimiter
                     {
                         SetProcessWorkingSetSize(Process.GetProcessById(GetDiscord()).Handle, min, max);
                     }
-
+                    /*
                     var wmiObject = new ManagementObjectSearcher("select * from Win32_OperatingSystem");
 
                     var memoryValues = wmiObject.Get().Cast<ManagementObject>().Select(mo => new {
@@ -75,7 +75,7 @@ namespace DiscordRamLimiter
                         Console.ForegroundColor = ConsoleColor.Green;
                         Thread.Sleep(600);
                     }
-
+                    */
                     Thread.Sleep(1);
                 }
             }
